@@ -43,7 +43,7 @@ usermod -d /output/ app
 
 #
 # Rechte setzen
-chown -R app:app /config /output
+chown -R app:app /config
 
 
 #
